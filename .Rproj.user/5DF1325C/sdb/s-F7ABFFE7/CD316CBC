@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"HelloWorld\"\nauthor: \"Ezequiel Martinez\"\ndate: \"Sunday, July 27, 2014\"\noutput: html_document\n---\n\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n```{r Testing Code}\n## This is a markdown file\n```\n\n",
+    "created" : 1406480331145.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "822139533",
+    "id" : "CD316CBC",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
